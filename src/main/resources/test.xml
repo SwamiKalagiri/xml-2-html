@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<test>
+    <item>
+        <id>1</id>
+        <name>apple</name>
+    </item>
+    <item>
+        <id>2</id>
+        <name>mango</name>
+    </item>
+    <item>
+        <id>3</id>
+        <name>banana</name>
+    </item>
+    <item>
+        <id>4</id>
+        <name>grape</name>
+    </item>
+</test>
